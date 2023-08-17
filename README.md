@@ -2,7 +2,7 @@
 Tutorials and implementations for "Self-normalizing networks"(SNNs) as suggested by Klambauer et al. ([arXiv pre-print](https://arxiv.org/pdf/1706.02515.pdf)). 
 
 ## Versions
-- see [environment](environment.yml) file for full list of prerequisites. Tutorial implementations use Tensorflow > 2.0 (Keras) or Pytorch, but versions for Tensorflow 1.x 
+- see [environment](environment.yml) file for full list of prerequisites. Tutorial implementations use Tensorflow > 3.0 (Keras) or Pytorch, but versions for Tensorflow 1.x 
   users based on the deprecated tf.contrib module (with separate [environment](TF_1_x/environment.yml) file) are also available.
 
 #### Note for Tensorflow >= 1.4 users
